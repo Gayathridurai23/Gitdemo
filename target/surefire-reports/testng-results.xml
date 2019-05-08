@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="63" started-at="2019-05-02T15:44:54 IST" finished-at="2019-05-02T15:44:54 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="63" started-at="2019-05-02T15:44:54 IST" finished-at="2019-05-02T15:44:54 IST">
+      <class name="qaclickacademy.ApiTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:qaclickacademy.ApiTest@6276ae34]" name="login" duration-ms="16" started-at="2019-05-02T15:44:54 IST" finished-at="2019-05-02T15:44:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- qaclickacademy.ApiTest -->
+      <class name="qaclickacademy.ProgramTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:qaclickacademy.ProgramTest@7946e1f4]" name="test1" duration-ms="0" started-at="2019-05-02T15:44:54 IST" finished-at="2019-05-02T15:44:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- qaclickacademy.ProgramTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
